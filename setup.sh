@@ -31,3 +31,4 @@ $ADD/lapack-static-3.10.1
 $ADD/mpfr-4.1.0
 $ADD/mplapack-2.0.1
 $ADD/sqlite-3.40.0
+$ADD/mkl64-2022.1.0
