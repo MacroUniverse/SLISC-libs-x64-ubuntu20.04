@@ -3,7 +3,7 @@
 echo ":: initializing SLISC0-libs-x64-ubuntu20.04"
 
 # recover split files due to github filesize limitation
-FILES="flint2-2.9.0/lib/libflint.a"
+FILES="flint2-2.9.0/lib/libflint.a mkl64-2022.1.0/lib/libmkl_core.a"
 for FILE in $FILES
 do
 if [[ ! -f "$FILE" ]]; then
